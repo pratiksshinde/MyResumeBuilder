@@ -17,7 +17,7 @@
 
   @font-face {
     font-family: Futura;
-    src: url(./Futura\ Bold.ttf);
+    src: url(..font/Futura Bold.ttf);
 }
 
 * {
